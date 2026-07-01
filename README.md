@@ -19,4 +19,21 @@ I like owning my own tooling. → [writingdeveloper.blog](https://writingdevelop
 [Blog](https://writingdeveloper.blog) · sihyeongdev@gmail.com
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=writingdeveloper&show_icons=true&hide_border=true&theme=default" height="150" alt="GitHub stats" />
+
+### 📊 GitHub stats
+
+<!-- Cards are generated as static SVGs by a GitHub Action (github-profile-summary-cards) — no external runtime dependency. -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="820" alt="Profile details" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages" />
+</picture>
