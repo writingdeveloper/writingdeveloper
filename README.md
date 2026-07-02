@@ -10,18 +10,18 @@ Los Angeles · [writingdeveloper.blog](https://writingdeveloper.blog)
 
 | Project | What it is |
 |---|---|
-| **[rentrights](https://github.com/writingdeveloper/rentrights)** · [live ↗](https://rentrights.writingdeveloper.blog) | Estimates an LA renter's legal protections from just their address — open civic-tech on PostGIS + Census data. |
+| **[rentrights](https://github.com/writingdeveloper/rentrights)** · [live ↗](https://rentrights.writingdeveloper.blog) | Estimates an LA renter's rent-law protections from just their address — open civic-tech on PostGIS + Census data. |
 | **[devdeck](https://github.com/writingdeveloper/devdeck)** | Command deck for Claude Code: git state, staleness, and one-click resume across every project. |
 | **[dont-touch-electron](https://github.com/writingdeveloper/dont-touch-electron)** | Detects face-touching to help break habits like trichotillomania. Electron + MediaPipe. |
-| **[zodiacly ↗](https://zodiacly.vercel.app)** | AI-powered daily horoscope & compatibility platform for the US and Latin America. |
+| **[voice-studio](https://github.com/writingdeveloper/voice-studio)** | Clones a character's voice from video and fine-tunes a GPT-SoVITS v4 model. Python + local GPU. |
 
 ## The `-deck` suite — a cockpit I own
 
-Local-first dashboards I built to run my own operation instead of renting five SaaS tabs — **devdeck** (Claude Code projects) · **[SiteDeck](https://github.com/writingdeveloper/SiteDeck)** (GA4 · PageSpeed · Search Console) · **opsdeck** (self-hosted status board) · **MarketDeck** (marketing readiness — *in progress*).
+Local-first dashboards I built to run my own operation instead of renting a wall of SaaS tabs — **devdeck** (Claude Code projects) · **[SiteDeck](https://github.com/writingdeveloper/SiteDeck)** (GA4 · PageSpeed · Search Console) · **opsdeck** (self-hosted status board) · **MarketDeck** (marketing readiness — *in progress*).
 
 ## Also shipping
 
-**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[voice-studio](https://github.com/writingdeveloper/voice-studio)** (video → cloned GPT-SoVITS voice) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[ClipShrink](https://github.com/writingdeveloper/ClipShrink)** (Windows-tray image compressor)
+**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[zodiacly ↗](https://zodiacly.vercel.app)** (AI daily-horoscope platform, US + LatAm) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[ClipShrink](https://github.com/writingdeveloper/ClipShrink)** (Windows-tray image compressor)
 
 → Full catalog and write-ups at **[writingdeveloper.blog](https://writingdeveloper.blog)**
 
