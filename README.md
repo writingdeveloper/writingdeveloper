@@ -21,7 +21,7 @@ Local-first dashboards I built to run my own operation instead of renting a wall
 
 ## Also shipping
 
-**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[zodiacly ↗](https://zodiacly.vercel.app)** (AI daily-horoscope platform, US + LatAm) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[ClipShrink](https://github.com/writingdeveloper/ClipShrink)** (Windows-tray image compressor)
+**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[zodiacly ↗](https://zodiacly.vercel.app)** (AI daily-horoscope platform, US + LatAm) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[ClipShrink](https://github.com/writingdeveloper/ClipShrink)** (Discord companion for free users: image auto-compression + a Nitro-free emoji/sticker/GIF picker — no client mods)
 
 → Full catalog and write-ups at **[writingdeveloper.blog](https://writingdeveloper.blog)**
 
