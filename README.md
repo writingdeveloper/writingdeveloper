@@ -12,16 +12,17 @@ Los Angeles · [writingdeveloper.blog](https://writingdeveloper.blog)
 |---|---|
 | **[rentrights](https://github.com/writingdeveloper/rentrights)** · [live ↗](https://rentrights.writingdeveloper.blog) | Estimates an LA renter's rent-law protections from just their address — open civic-tech on PostGIS + Census data. |
 | **[devdeck](https://github.com/writingdeveloper/devdeck)** | Command deck for Claude Code: git state, staleness, and one-click resume across every project. |
-| **[dont-touch-electron](https://github.com/writingdeveloper/dont-touch-electron)** | Detects face-touching to help break habits like trichotillomania. Electron + MediaPipe. |
-| **[voice-studio](https://github.com/writingdeveloper/voice-studio)** | Clones a character's voice from video and fine-tunes a GPT-SoVITS v4 model. Python + local GPU. |
+| **HealFrame** · [live ↗](https://healframe.app) · [Play ↗](https://play.google.com/store/apps/details?id=app.healframe) | Trauma-informed mental-health SaaS — AI journaling behind a GREEN/AMBER/RED crisis-safety pipeline. Web + Android. |
+| **Drymora** · [live ↗](https://drymora.writingdeveloper.blog) · [Play ↗](https://play.google.com/store/apps/details?id=com.soursea.drymora) | Evidence-based, bilingual sobriety PWA — shipped to Google Play as an Android app. |
+| **Argus Fusion** · [live ↗](https://argus-fusion.vercel.app) | Real-time OSINT situational-awareness — 10+ live public feeds on a Three.js 3D globe. |
 
 ## The `-deck` suite — a cockpit I own
 
-Local-first dashboards I built to run my own operation instead of renting a wall of SaaS tabs — **devdeck** (Claude Code projects) · **[SiteDeck](https://github.com/writingdeveloper/SiteDeck)** (GA4 · PageSpeed · Search Console) · **opsdeck** (self-hosted status board) · **MarketDeck** (marketing readiness — *in progress*).
+Local-first dashboards I built to run my own operation instead of renting a wall of SaaS tabs — **devdeck** (Claude Code projects) · **[SiteDeck](https://github.com/writingdeveloper/SiteDeck)** (GA4 · PageSpeed · Search Console) · **MarketDeck** (marketing readiness — *in progress*).
 
 ## Also shipping
 
-**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[zodiacly ↗](https://zodiacly.vercel.app)** (AI daily-horoscope platform, US + LatAm) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[ClipShrink](https://github.com/writingdeveloper/ClipShrink)** (Discord companion for free users: image auto-compression + a Nitro-free emoji/sticker/GIF picker — no client mods)
+**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[zodiacly ↗](https://zodiacly.vercel.app)** (AI daily-horoscope platform, US + LatAm) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[dont-touch-electron](https://github.com/writingdeveloper/dont-touch-electron)** (face-touch detection for habit-breaking — Electron + MediaPipe) · **[Notro](https://github.com/writingdeveloper/Notro)** (Discord companion for free users: image auto-compression + a Nitro-free emoji/sticker/GIF picker — no client mods)
 
 → Full catalog and write-ups at **[writingdeveloper.blog](https://writingdeveloper.blog)**
 
