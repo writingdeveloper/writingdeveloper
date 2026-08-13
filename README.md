@@ -4,7 +4,7 @@
 
 Most of what I build scratches a real itch: a tenant checking their rights, a habit I wanted to break, a dashboard I wished existed. I keep scope honest, ship fast, and reach for my own tooling before renting someone else's SaaS.
 
-Los Angeles · [writingdeveloper.blog](https://writingdeveloper.blog)
+Los Angeles · remote-first, worldwide · [writingdeveloper.blog](https://writingdeveloper.blog) · **[Work with me ↗](https://writingdeveloper.blog/hire)**
 
 ## Featured
 
@@ -26,10 +26,13 @@ Local-first dashboards I built to run my own operation instead of renting a wall
 
 → Full catalog and write-ups at **[writingdeveloper.blog](https://writingdeveloper.blog)**
 
-## Reach me
+## Work with me
 
-[Blog](https://writingdeveloper.blog) · sihyeongdev@gmail.com  
-Open to select freelance and genuinely interesting problems.
+Open to **full-time roles** — CTO · senior full-stack · AI integration — **and to project
+work**: Claude API pipelines, custom MCP servers, RAG systems, Next.js / NestJS / Python
+products. Remote-first, worldwide. Available now.
+
+**→ [What working together looks like](https://writingdeveloper.blog/hire)** · sihyeongdev@gmail.com
 
 ---
 
