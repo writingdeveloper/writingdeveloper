@@ -6,6 +6,8 @@ Most of what I build scratches a real itch: a tenant checking their rights, a ha
 
 Los Angeles · remote-first, worldwide · [writingdeveloper.blog](https://writingdeveloper.blog) · **[Work with me ↗](https://writingdeveloper.blog/hire)**
 
+[![Coding time tracked by WakaTime — click through for the live leaderboard standing](https://wakatime.com/badge/user/aaedac60-f3c5-4ddc-b65a-9998d7bb6748.svg?style=flat-square)](https://wakatime.com/@writingdeveloper)
+
 ## Featured
 
 | Project | What it is |
