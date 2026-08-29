@@ -1,40 +1,39 @@
 # Sihyeong Lee — `writingdeveloper`
 
-**Solo developer in Los Angeles.** I ship small, useful web & desktop tools — and I like owning the whole stack, from the first idea to the box it runs on.
+**AI-native product engineer in Los Angeles.** I build and operate developer tools, applied-AI systems, production full-stack products, and the infrastructure behind them.
 
-Most of what I build scratches a real itch: a tenant checking their rights, a habit I wanted to break, a dashboard I wished existed. I keep scope honest, ship fast, and reach for my own tooling before renting someone else's SaaS.
+I use coding agents heavily, but I keep the engineering decisions explicit: architecture, constraints, acceptance criteria, failure analysis, testing, deployment, and what actually ships. Before the current agentic workflow, I spent years building the same stack directly; today I use that background to make the agents faster without outsourcing ownership.
 
-Los Angeles · remote-first, worldwide · [writingdeveloper.blog](https://writingdeveloper.blog) · **[Work with me ↗](https://writingdeveloper.blog/hire)**
+Los Angeles · remote-first · US · [writingdeveloper.blog](https://writingdeveloper.blog) · **[Work with me ↗](https://writingdeveloper.blog/en/hire)**
 
 [![Coding time tracked by WakaTime — click through for the live leaderboard standing](https://wakatime.com/badge/user/aaedac60-f3c5-4ddc-b65a-9998d7bb6748.svg?style=flat-square)](https://wakatime.com/@writingdeveloper)
 
-## Featured
+## Selected engineering work
 
-| Project | What it is |
+| Project | What it proves |
 |---|---|
-| **[rentrights](https://github.com/writingdeveloper/rentrights)** · [live ↗](https://rentrights.writingdeveloper.blog) | Estimates an LA renter's rent-law protections from just their address — open civic-tech on PostGIS + Census data. |
-| **[devdeck](https://github.com/writingdeveloper/devdeck)** | Command deck for Claude Code: git state, staleness, and one-click resume across every project. |
-| **HealFrame** · [live ↗](https://healframe.app) · [Play ↗](https://play.google.com/store/apps/details?id=app.healframe) | Trauma-informed mental-health SaaS — AI journaling behind a GREEN/AMBER/RED crisis-safety pipeline. Web + Android. |
-| **Drymora** · [live ↗](https://drymora.writingdeveloper.blog) · [Play ↗](https://play.google.com/store/apps/details?id=com.soursea.drymora) | Evidence-based, bilingual sobriety PWA — shipped to Google Play as an Android app. |
-| **Argus Fusion** · [live ↗](https://argus-fusion.vercel.app) | Real-time OSINT situational-awareness — 10+ live public feeds on a Three.js 3D globe. |
+| **[DevDeck](https://github.com/writingdeveloper/devdeck)** | Developer tooling for Claude Code, Codex and Antigravity: Git/session state, embedded terminals, resumability, Electron security, CI and desktop releases. |
+| **[RentRights](https://github.com/writingdeveloper/rentrights)** · [live ↗](https://rentrights.writingdeveloper.blog) | Production full-stack/data engineering over LA County + Census data; an indexed lookup path cut a 13–55s scan to about a second, with live scheduled E2E checks. |
+| **[citefirst](https://github.com/writingdeveloper/citefirst)** | Measured RAG over the PostgreSQL manual: hybrid retrieval, local reranking, citation validation, explicit failure analysis, and repeatable evaluation instead of qualitative claims. |
+| **[studios](https://writingdeveloper.blog/en/studio)** | Private MCP/GPU generation platform for image, video, 3D, voice and music: shared GPU arbitration, asset lineage, machine gates, review loops, FastAPI/React gallery and hundreds of tests. |
+| **[Toolsmith](https://github.com/writingdeveloper/toolsmith)** · [live ↗](https://toolsmith.writingdeveloper.blog) | Browser-only file tooling across Web Workers/WASM/WebCodecs-style pipelines, keeping user files off a backend. |
+| **[JuiceBar](https://github.com/writingdeveloper/JuiceBar)** | Windows systems/desktop engineering: CPU/GPU/battery sensing, calibrated power estimation, tariff validation, local history, packaged releases. |
 
-## The `-deck` suite — a cockpit I own
+## How I work
 
-Local-first dashboards I built to run my own operation instead of renting a wall of SaaS tabs — **devdeck** (Claude Code projects) · **[SiteDeck](https://github.com/writingdeveloper/SiteDeck)** (GA4 · PageSpeed · Search Console) · **MarketDeck** (marketing readiness — *in progress*).
+I tend to own the whole path: problem framing → architecture → implementation → tests and QA → deployment → production operations. Recent systems also include local/remote GPU orchestration, MCP servers, RAG evaluation, CI/release gates, and self-hosted infrastructure over Tailscale.
 
-## Also shipping
+The through-line is not “AI wrote the code.” It is **using AI implementation agents while keeping system ownership and verification human-readable and testable**.
 
-**[shipwright](https://github.com/writingdeveloper/shipwright)** (Next.js + Turborepo MVP starter) · **[zodiacly ↗](https://zodiacly.vercel.app)** (AI daily-horoscope platform, US + LatAm) · **[Mini-Games ↗](https://games.writingdeveloper.blog)** (four render engines + multiplayer) · **[dont-touch-electron](https://github.com/writingdeveloper/dont-touch-electron)** (face-touch detection for habit-breaking — Electron + MediaPipe) · **[Notro](https://github.com/writingdeveloper/Notro)** (Discord companion for free users: image auto-compression + a Nitro-free emoji/sticker/GIF picker — no client mods)
-
-→ Full catalog and write-ups at **[writingdeveloper.blog](https://writingdeveloper.blog)**
+→ Full project ledger and build notes: **[writingdeveloper.blog](https://writingdeveloper.blog)**
 
 ## Work with me
 
-Open to **full-time roles** — CTO · senior full-stack · AI integration — **and to project
-work**: Claude API pipelines, custom MCP servers, RAG systems, Next.js / NestJS / Python
-products. Remote-first, worldwide. Available now.
+Open to remote **Senior Product Engineer**, **Applied AI / AI Platform Engineer**, and **Senior Full-Stack Engineer** roles in the US, plus focused project work around agent workflows, custom MCP servers, RAG systems, and Next.js / NestJS / Python products.
 
-**→ [What working together looks like](https://writingdeveloper.blog/hire)** · sihyeongdev@gmail.com
+Previously I owned engineering for 5+ years as a CTO; more recently I have been hands-on across the systems above from architecture through production operations.
+
+**→ [Portfolio / availability](https://writingdeveloper.blog/en/hire)** · sihyeongdev@gmail.com
 
 ---
 
@@ -44,15 +43,15 @@ products. Remote-first, worldwide. Available now.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="820" alt="Profile details" />
+  <img src="./profile-summary-card-output/default/0-profile-details.svg" width="820" alt="GitHub stats for Sihyeong Lee" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
-  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub contribution stats" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top languages" />
+  <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Top repository languages" />
 </picture>
