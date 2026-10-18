@@ -12,6 +12,7 @@ Los Angeles · remote-first · US · [writingdeveloper.blog](https://writingdeve
 
 | Project | What it proves |
 |---|---|
+| **[MingleStage](https://minglestage.app/)** · [live Early Access ↗](https://minglestage.app/app/) | Free browser-based 3D watch parties with shared playback, avatar reactions, private/public rooms, and an independently tested Web/Realtime release pipeline. Desktop recommended; early access, not a paid-event SLA. |
 | **[DevDeck](https://github.com/writingdeveloper/devdeck)** | Developer tooling for Claude Code, Codex and Antigravity: Git/session state, embedded terminals, resumability, Electron security, CI and desktop releases. |
 | **[RentRights](https://github.com/writingdeveloper/rentrights)** · [live ↗](https://rentrights.writingdeveloper.blog) | Production full-stack/data engineering over LA County + Census data; an indexed lookup path cut a 13–55s scan to about a second, with live scheduled E2E checks. |
 | **[citefirst](https://github.com/writingdeveloper/citefirst)** | Measured RAG over the PostgreSQL manual: hybrid retrieval, local reranking, citation validation, explicit failure analysis, and repeatable evaluation instead of qualitative claims. |
